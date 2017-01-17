@@ -4,4 +4,4 @@ def temperature_convert  (num)
 
   puts "celcius is #{celcius} yay!"
 
-end
+end # testng ssh
